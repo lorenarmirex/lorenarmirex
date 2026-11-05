@@ -42,6 +42,7 @@ to analyze nutritional patterns in fast-food data.
 ## Connect With Me
 
 - Email: [Contact Me](mailto:lorenarmirezlx@gmail.com)
+- www.linkedin.com/in/lorena-ramirez-53652140b
 
 
 <!--
